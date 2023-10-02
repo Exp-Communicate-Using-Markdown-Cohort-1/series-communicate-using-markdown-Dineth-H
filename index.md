@@ -30,3 +30,7 @@
 			}
 		}
 	</script>
+
+- [x] Turn on Pro Mode
+- [x] Readme Updated
+- [ ] Done Daily Commits
